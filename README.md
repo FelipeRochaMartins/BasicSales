@@ -50,19 +50,6 @@ Para configurar e executar este projeto localmente, siga estas etapas:
 4. **Execute a aplicação**
 
 
-
-## Instalação para Usuários
-
-1. Baixe o programa [SQL Server Compact 4.0 SP1](https://www.microsoft.com/pt-br/download/details.aspx?id=30709) e realize sua instalação na máquina.
-
-2. Após isso baixe a pasta zipada [BasicSalesSetup.zip](https://github.com/FelipeRochaMartins/BasicSales/blob/master/BasicSalesSetup.zip) nos arquivos desse repositório.
-
-3. Descompacte a pasta.
-
-4. Realize a instalação por meio do arquivo ```BasicSalesSetup.msi```.
-
-5. O ícone de atalho aparecerá na Área de Trabalho, aproveite o **Basic Sales**!
-
 ## Autor
 
 - [**Felipe Rocha Martins**](https://github.com/FelipeRochaMartins) (*dev.feliperochamartins@gmail.com*)

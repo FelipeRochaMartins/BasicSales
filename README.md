@@ -4,7 +4,7 @@
 
 Basic Sales is an application that allows small businesses to maintain, manage, make sales, and generate reports.
 
-This application uses **.NET 8**, **SQL Server Compact 4.0**, and other resources to deliver a smooth and fluid experience to users, focusing on **minimizing resource usage** and maintaining simplicity.
+This application uses **.NET**, **SQL Server Compact 4.0**, and other resources to deliver a smooth and fluid experience to users, focusing on **minimizing resource usage** and maintaining simplicity.
 
 ## Key Features
 
@@ -65,7 +65,7 @@ To obtain it, follow these steps:
 
 Basic Sales é um aplicativo que permite que pequenos negócios mantenham, gerenciem, realizem vendas e gerem relatórios.
 
-Esse aplicativo usa do **.NET 8**, **SQL Server Compact 4.0** e de outros recursos para entregar uma experiência fluida e suave aos usuários, com o foco em **minimizar o uso de recursos** e manter a simplicidade. 
+Esse aplicativo usa do **.NET**, **SQL Server Compact 4.0** e de outros recursos para entregar uma experiência fluida e suave aos usuários, com o foco em **minimizar o uso de recursos** e manter a simplicidade. 
 
 ## Funcionalidades Principais
 

@@ -1,5 +1,68 @@
 # Basic Sales
 
+## English
+
+Basic Sales is an application that allows small businesses to maintain, manage, make sales, and generate reports.
+
+This application uses **.NET 8**, **SQL Server Compact 4.0**, and other resources to deliver a smooth and fluid experience to users, focusing on **minimizing resource usage** and maintaining simplicity.
+
+## Key Features
+
+- **Product Creation**: Allows users to create and manage their own products in a simple and effective way, using an intuitive and logical approach.
+  
+- **Inventory Management**: Keeps basic inventory control of products, automatically updating based on registered sales and product entries and exits.
+
+- **Quick Sales**: Provides users with a clear interface to perform sales, refunds, and product exchanges, enabling fast operations and the ability to handle a constant workflow.
+
+- **Reports**: Generates simple reports that show sales performance over time as well as reports for clear inventory visualization.
+
+## Installation for Developers
+
+To set up and run this project locally, follow these steps:
+
+1. **Clone the repository**:
+
+```
+git clone https://github.com/FelipeRochaMartins/BasicSales.git
+```
+
+2. **Install the Database**:
+
+Install [SQL Server Compact 4.0 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=30709)
+
+3. **Add the DLL**:
+
+Add the following DLL `DBManager.dll` to the `references` of BasicSales.
+
+To obtain it, follow these steps:
+
+1. Build the DBManager solution (Compilation).
+
+2. Right-click on `references` and click "Add."
+
+3. Enter the `bin` folder of the DBManager solution.
+
+4. Go to the compiled folder (Release or Debug).
+
+5. Select the DLL.
+
+6. Add it.
+
+4. **Run the application**
+
+
+## Author
+
+- [**Felipe Rocha Martins**](https://github.com/FelipeRochaMartins) (*dev.feliperochamartins@gmail.com*)
+
+## License
+
+*This project is licensed under the MIT License - see the [LICENSE](https://github.com/FelipeRochaMartins/BasicSales/blob/master/LICENSE) file for details.*
+
+<br><br><br><br><br><br>
+
+## PT-BR
+
 Basic Sales é um aplicativo que permite que pequenos negócios mantenham, gerenciem, realizem vendas e gerem relatórios.
 
 Esse aplicativo usa do **.NET 8**, **SQL Server Compact 4.0** e de outros recursos para entregar uma experiência fluida e suave aos usuários, com o foco em **minimizar o uso de recursos** e manter a simplicidade. 
